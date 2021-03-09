@@ -43,3 +43,24 @@ A anotação `@Provider` é usada para qualquer coisa que seja de interesse do t
 
 ### `@ApplicationPath`
 A anotação `@ApplicationPath` é usada para definir o mapeamento de URL para o aplicativo. O caminho especificado por `@ApplicationPath` é o URI de base para todos os URIs de recursos especificados por anotações `@Path` na classe de recurso. Você só pode aplicar `@ApplicationPath` para uma subclasse de `javax.ws.rs.core.Application`.
+
+### `@Context`
+Injeta informações em um campo de classe, propriedade de bean ou parâmetro de método
+
+### `@CookieParam`
+Extrai informações de cookies declarados no cabeçalho de solicitação de cookie
+
+### `@FormParam`
+Extrai informações de uma representação de solicitação cujo tipo de conteúdo é application/x-www-form-urlencoded
+
+### `@HeaderParam`
+Extrai o valor de um cabeçalho
+
+### `@MatrixParam`
+Extrai o valor de um parâmetro de matriz URI
+
+### `@PathParam`
+Extrai o valor de um parâmetro de modelo de URI
+
+### `@QueryParam`
+Extrai o valor de um parâmetro de consulta URI, pode usar `@DefaultValue`
