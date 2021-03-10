@@ -1,4 +1,4 @@
-package com.github.lf2a;
+package com.github.lf2a.exception;
 
 import javax.validation.ConstraintViolation;
 import javax.validation.ConstraintViolationException;

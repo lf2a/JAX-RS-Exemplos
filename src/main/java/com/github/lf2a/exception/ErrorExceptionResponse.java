@@ -1,4 +1,4 @@
-package com.github.lf2a;
+package com.github.lf2a.exception;
 
 /**
  * <h1>ErrorExceptionResponse.java</h1>

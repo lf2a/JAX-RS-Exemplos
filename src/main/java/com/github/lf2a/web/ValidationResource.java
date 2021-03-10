@@ -1,4 +1,6 @@
-package com.github.lf2a;
+package com.github.lf2a.web;
+
+import com.github.lf2a.entity.User;
 
 import javax.validation.Valid;
 import javax.validation.constraints.NotNull;

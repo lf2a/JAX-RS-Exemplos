@@ -1,4 +1,4 @@
-package com.github.lf2a;
+package com.github.lf2a.web;
 
 import javax.inject.Inject;
 import javax.ws.rs.Consumes;

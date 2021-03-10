@@ -1,4 +1,4 @@
-package com.github.lf2a;
+package com.github.lf2a.web;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;

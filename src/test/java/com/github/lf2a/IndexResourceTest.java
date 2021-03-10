@@ -4,6 +4,8 @@ import static com.github.lf2a.JaxrsServerExtension.jaxrsServer;
 
 import com.fasterxml.jackson.jaxrs.json.JacksonJsonProvider;
 
+import com.github.lf2a.web.IndexResource;
+
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.RegisterExtension;
 

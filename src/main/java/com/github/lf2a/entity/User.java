@@ -1,4 +1,4 @@
-package com.github.lf2a;
+package com.github.lf2a.entity;
 
 import javax.validation.constraints.Email;
 import javax.validation.constraints.NotNull;
